@@ -1,2 +1,5 @@
 # Python-Twitter-Bot
-Scripts to fetch twitter data using Twitter API
+
+TITLE :- Twitter Bot
+
+DESCRIPTION :- Scripts to fetch twitter data using Twitter API
