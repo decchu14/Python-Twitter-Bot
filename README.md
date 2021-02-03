@@ -24,5 +24,12 @@ Twitter API :-
   
 SETTING UP AN ACCOUNT :-
   * Go to link https://developer.twitter.com/en
+  * Login using your twitter username and password.
   * Click on apply
+  * Choose anyone for ex:-student.
+  * Verify and click next.
+  * fill in the details and click next.
+  * How will you use the twitter API or Twitter Data -- be genuine and ethical and write that you want to use it for learning purpose and exploring api and so on.
+  * verify and submit application
+  * It will usually take a day or two, or sometimes more, for your application to be reviewed by Twitter.
   
