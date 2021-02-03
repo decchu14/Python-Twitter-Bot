@@ -15,3 +15,14 @@ ABOUT THE PROJECT :-
    3. 3_KeywordLike.py -> This bot favorites the given number of tweets of a given keyword. For ex. if keyword = 'python' and no. of tweets = 5, then it will favorite the                            first 5 tweets which has the word python.
    
    4. 4_Favorite.py -> This bot favorites the given number of tweets of a given follower name.
+   
+Twitter API :- 
+  * Need to have Twitter account.
+  * Twitter API is a permissive API.
+  * Twitter is very cautious when it comes to people creating spam bots.
+  * Therefore, one needs to apply to get access to their API (IT'S FREE).
+  
+SETTING UP AN ACCOUNT :-
+  * Go to link https://developer.twitter.com/en
+  * Click on apply
+  
