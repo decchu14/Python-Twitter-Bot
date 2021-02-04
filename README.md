@@ -32,4 +32,6 @@ SETTING UP AN ACCOUNT :-
   * How will you use the twitter API or Twitter Data -- be genuine and ethical and write that you want to use it for learning purpose and exploring api and so on.
   * verify and submit application
   * It will usually take a day or two, or sometimes more, for your application to be reviewed by Twitter.
+  * Results will be sent through email.
+  
   
