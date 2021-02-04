@@ -34,6 +34,16 @@ SETTING UP AN ACCOUNT :-
   * It will usually take a day or two, or sometimes more, for your application to be reviewed by Twitter.
   * Results will be sent through email.
   
+CREATING AN APP :-
+  * Goto developer twitter account and click on Projects & Apps.
+  * Click on Create App and name your app then click on complete.
+  * You will get you API Key(consumer_key), API Secret Key(consumer_secret) and Bearer Token, copy them and save it seperatly.
+  * Click on your app name.
+  * Goto app details and then click on Keys & Tokens Tab.
+  * You can find all your keys here.
+  * In the Access Token & Secret session click on generate button. 
+  * Again save the keys along with rest of the keys.
+  
 THE REQUIRED TOOLS :-
 * Tweepy Module : An easy-to-use Python library for accessing the Twitter API.
    
