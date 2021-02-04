@@ -34,4 +34,9 @@ SETTING UP AN ACCOUNT :-
   * It will usually take a day or two, or sometimes more, for your application to be reviewed by Twitter.
   * Results will be sent through email.
   
+THE REQUIRED TOOLS :-
+* Tweepy Module : An easy-to-use Python library for accessing the Twitter API.
+   
+      pip install tweepy
+  
   
