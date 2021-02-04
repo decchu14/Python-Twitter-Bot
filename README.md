@@ -12,8 +12,8 @@ ABOUT THE PROJECT :-
    
    2. 2_FollowBack.py -> This bot automatically follows back all my followers.
    
-   3. 3_KeywordLike.py -> This bot favorites the given number of tweets of a given keyword. For ex. if keyword = 'python' and no. of tweets = 5, then it will favorite the                            first 5 tweets which has the word python.
-   
+   3. 3_KeywordLike.py -> This bot favorites the given number of tweets of a given keyword. For ex. if keyword = 'python' and no. of tweets = 5, then it will favorite 
+                          the first 5 tweets which has the word python.
    4. 4_Favorite.py -> This bot favorites the given number of tweets of a given follower name.
    
 Twitter API :- 
@@ -26,7 +26,7 @@ SETTING UP AN ACCOUNT :-
   * Go to link https://developer.twitter.com/en
   * Login using your twitter username and password.
   * Click on apply
-  * Choose anyone for ex:-student.
+  * Choose any one for ex:-student.
   * Verify and click next.
   * fill in the details and click next.
   * How will you use the twitter API or Twitter Data -- be genuine and ethical and write that you want to use it for learning purpose and exploring api and so on.
