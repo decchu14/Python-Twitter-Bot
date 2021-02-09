@@ -8,7 +8,7 @@ ABOUT THE PROJECT :-
   
  In this project we are going to build bots using twitter API. We will be building 4 twitter bots.
 
-   1. 1_MyInfo.py -> This bot fetches my info such as username, screenname, no.of followers, public tweets from my home page.
+   1. 1_MyInfo.py -> This bot fetches my info such as username, screenname, no.of followers, public tweets from my home page and write to a CSV File.
    
    2. 2_FollowBack.py -> This bot automatically follows back all my followers.
    
@@ -48,5 +48,11 @@ THE REQUIRED TOOLS :-
 * Tweepy Module : An easy-to-use Python library for accessing the Twitter API.
    
       pip install tweepy
+      
+* CSV Module :- The so-called CSV (Comma Separated Values) format is the most common import and export format for spreadsheets and databases.
+              - The csv module implements classes to read and write tabular data in CSV format. 
+              - The CSV Module is a built in module 
+
+      
   
   
