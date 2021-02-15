@@ -22,7 +22,8 @@ def limit_handler(cursor):
         time.sleep(1000)
 
 
-# here count is 200 mens 200 times we can hit the api and fetch 200 tweets each at a time
+# here count is 200 means 200 times we can hit the api and fetch 200 tweets each at a time
+# just to not get confused, screen name is which begins with @, excluding @.
 all_tweets = api.user_timeline(screen_name="[screenname]", count=200)
 # just a counter to count tweets
 count1 = 0
