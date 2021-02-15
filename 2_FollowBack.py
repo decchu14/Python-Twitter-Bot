@@ -1,7 +1,8 @@
 import tweepy
 import time
-import MyAPIKeys
+import MyAPIKeys  # just created a seperate python file to keep my keys so that i can just import it instead of typing it again and again
 
+# setting the auth
 auth = tweepy.OAuthHandler(MyAPIKeys.Api_Key, MyAPIKeys.Api_Key_Secret)
 auth.set_access_token(MyAPIKeys.Access_Token, MyAPIKeys.Access_Token_Secret)
 
@@ -24,6 +25,7 @@ def limit_handler(cursor):
         pass
 
 
+# cursor allows us to navigate through all the pages in twiiter to fetch necessary information
 for follower in limit_handler(tweepy.Cursor(api.followers).items()):
     follower.follow()
     print("followed ", follower.screen_name)
