@@ -8,7 +8,7 @@ ABOUT THE PROJECT :-
   
  In this project we are going to build bots using twitter API. We will be building 4 twitter bots.
 
-   1. 1_MyInfo.py -> This bot fetches my info such as username, screenname, no.of followers, public tweets from my home page and write to a CSV File.
+   1. 1_MyInfo.py -> This bot fetches my info such as username, screenname, no.of followers, public tweets from my home page.
    
    2. 2_FollowBack.py -> This bot automatically follows back all my followers.
    
