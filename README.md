@@ -32,7 +32,7 @@ SETTING UP AN ACCOUNT :-
   * How will you use the twitter API or Twitter Data -- be genuine and ethical and write that you want to use it for learning purpose and exploring api and so on.
   * verify and submit application
   * It will usually take a day or two, or sometimes more, for your application to be reviewed by Twitter.
-  * Results will be sent through email.
+  * Results will be se nt through email.
   
 CREATING AN APP :-
   * Goto developer twitter account and click on Projects & Apps.
@@ -54,7 +54,8 @@ THE REQUIRED TOOLS :-
               
      - The csv module implements classes to read and write tabular data in CSV format. 
               
-     - The CSV Module is a built in module 
+     - The CSV Module is a built in module.
+
 
       
   
